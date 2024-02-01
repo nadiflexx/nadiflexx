@@ -27,13 +27,21 @@ He estado trabajando 2 años en Indra en el sector de Testing. Aunque no es un s
 Estan són algunas de las tecnologias que he usado en mi etapa de desarrollador:
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
+
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
+
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://es.wikipedia.org/wiki/MongoDB)
+
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://es.wikipedia.org/wiki/SQL)
+
 [![SQL](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://es.wikipedia.org/wiki/PHP)
+
 [![Apis](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white)](https://es.wikipedia.org/wiki/API)
+
 [![Hiberante](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://es.wikipedia.org/wiki/Hibernate)
+
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://en.wikipedia.org/wiki/Spring_Boot)
 
 ## Vista previa de algunos proyectos
