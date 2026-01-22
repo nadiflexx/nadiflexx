@@ -130,7 +130,7 @@ Complete Machine Learning pipeline (ETL -> Modeling -> Visualization) using hist
 
 </details>
 
-[![Repo](https://img.shields.io/badge/View_Repository-black?style=for-the-badge&logo=github&logoColor=A855F7)](YOUR_REPO_LINK_HERE)
+[![Repo](https://img.shields.io/badge/View_Repository-black?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/nadiflexx/Meteorological-Forecasting-Platform)
 
 ---
 
